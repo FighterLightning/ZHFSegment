@@ -5,7 +5,11 @@
 //  Created by 张海峰 on 2018/11/26.
 //  Copyright © 2018年 张海峰. All rights reserved.
 //
-
+/*
+ 如果觉得帮助欢迎fork，star，如果有好的建议欢迎提出来
+ demo链接：https://github.com/FighterLightning/ZHFSegment.git
+ 使用说明链接简书：https://www.jianshu.com/p/e4b49d606989
+ */
 import UIKit
 
 class MainFourChildVC: UIViewController {
