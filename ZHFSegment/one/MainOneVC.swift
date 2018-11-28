@@ -8,7 +8,7 @@
 /*
  如果觉得帮助欢迎fork，star，如果有好的建议欢迎提出来
  demo链接：https://github.com/FighterLightning/ZHFSegment.git
- 使用说明链接简书：https://www.jianshu.com/p/e4b49d606989
+ 使用说明链接简书：https://www.jianshu.com/p/7493643fddf6
  */
 import UIKit
 //"没有导航栏，没有tabBar",
@@ -17,14 +17,14 @@ class MainOneVC: ZHFSegmentVC {
         super.viewDidLoad()
         self.view.backgroundColor = ZHFColor.white
         /*<------------可修改属性，默认的话可以不做处理------------->*/
-        self.titleScrollViewH = 55 //默认是44 这个属性的位置不能和isHave_Navgation颠倒
+        self.titleScrollViewH = 44 //默认是44 这个属性的位置不能和isHave_Navgation颠倒
         self.isHave_Navgation = false//如果没有导航栏记得设置这个属性（默认是true）
         self.isHave_Tabbar = false//如果有tabBar记得设置这个属性（默认是false）
-        self.btnW = 105 //默认是100
+        self.btnW = 80 //默认是100
         self.selectId = 1  //选中位置  默认是0
-        self.titleScale = 1.2 //字体缩放倍数，默认是1.3, 设置成1不缩放
-        self.titleColor = ZHFColor.black
-        self.titleSelectedColor = ZHFColor.red
+        self.titleScale = 1 //字体缩放倍数，默认是1.3, 设置成1不缩放
+        self.titleColor = ZHFColor.orange
+        self.titleSelectedColor = ZHFColor.green
         //默认是可以通过手势左右滚动 防止子控制器里有ScroolView造成手势冲突，改成false将不能滚动
         self.isScroll = true
         /*<-----------必须调用的方法-------->*/
