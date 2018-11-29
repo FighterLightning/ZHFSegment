@@ -1,0 +1,18 @@
+[
+    {
+        "vcName": "MainTwoVC",
+        "title": "火爆",
+        "imageName": "fire"
+    },
+    {
+        "vcName": "HomeVC",
+        "title": "首页",
+        "imageName": "home"
+    },
+    
+    {
+        "vcName": "MineVC",
+        "title": "我的",
+        "imageName": "mine"
+    }
+]
