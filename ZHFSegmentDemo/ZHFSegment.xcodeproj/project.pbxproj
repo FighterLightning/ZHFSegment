@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E348FA0521B0D9BE007701C2 /* ZHFSegmentVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E348FA0221B0D9BE007701C2 /* ZHFSegmentVC.swift */; };
+		E348FA0621B0D9BE007701C2 /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = E348FA0321B0D9BE007701C2 /* Common.swift */; };
+		E348FA0721B0D9BE007701C2 /* ZHFColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = E348FA0421B0D9BE007701C2 /* ZHFColor.swift */; };
 		E3B3D73921AB8AA40045496F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B3D73821AB8AA40045496F /* AppDelegate.swift */; };
 		E3B3D73B21AB8AA40045496F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B3D73A21AB8AA40045496F /* ViewController.swift */; };
 		E3B3D73E21AB8AA40045496F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3B3D73C21AB8AA40045496F /* Main.storyboard */; };
@@ -15,9 +18,6 @@
 		E3B3D74E21AB8AA50045496F /* ZHFSegmentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B3D74D21AB8AA50045496F /* ZHFSegmentTests.swift */; };
 		E3B3D75921AB8AA50045496F /* ZHFSegmentUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B3D75821AB8AA50045496F /* ZHFSegmentUITests.swift */; };
 		E3B3D77B21ABCF1C0045496F /* NextVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B3D77A21ABCF1C0045496F /* NextVC.swift */; };
-		E3B3D78121ABE2AC0045496F /* ZHFSegmentVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B3D77F21ABE2AC0045496F /* ZHFSegmentVC.swift */; };
-		E3B3D78221ABE2AC0045496F /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B3D78021ABE2AC0045496F /* Common.swift */; };
-		E3B3D78621ABE2DE0045496F /* ZHFColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B3D78521ABE2DE0045496F /* ZHFColor.swift */; };
 		E3B3D79B21ABF3870045496F /* MineVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B3D79521ABF3860045496F /* MineVC.swift */; };
 		E3B3D79C21ABF3870045496F /* tabbar.json in Resources */ = {isa = PBXBuildFile; fileRef = E3B3D79621ABF3860045496F /* tabbar.json */; };
 		E3B3D79D21ABF3870045496F /* MainTwoChildVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B3D79721ABF3860045496F /* MainTwoChildVC.swift */; };
@@ -52,6 +52,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E348FA0221B0D9BE007701C2 /* ZHFSegmentVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZHFSegmentVC.swift; sourceTree = "<group>"; };
+		E348FA0321B0D9BE007701C2 /* Common.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
+		E348FA0421B0D9BE007701C2 /* ZHFColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZHFColor.swift; sourceTree = "<group>"; };
 		E3B3D73521AB8AA40045496F /* ZHFSegment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZHFSegment.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3B3D73821AB8AA40045496F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E3B3D73A21AB8AA40045496F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -66,9 +69,6 @@
 		E3B3D75821AB8AA50045496F /* ZHFSegmentUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZHFSegmentUITests.swift; sourceTree = "<group>"; };
 		E3B3D75A21AB8AA50045496F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E3B3D77A21ABCF1C0045496F /* NextVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextVC.swift; sourceTree = "<group>"; };
-		E3B3D77F21ABE2AC0045496F /* ZHFSegmentVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZHFSegmentVC.swift; sourceTree = "<group>"; };
-		E3B3D78021ABE2AC0045496F /* Common.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
-		E3B3D78521ABE2DE0045496F /* ZHFColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZHFColor.swift; sourceTree = "<group>"; };
 		E3B3D79521ABF3860045496F /* MineVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MineVC.swift; sourceTree = "<group>"; };
 		E3B3D79621ABF3860045496F /* tabbar.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = tabbar.json; sourceTree = "<group>"; };
 		E3B3D79721ABF3860045496F /* MainTwoChildVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainTwoChildVC.swift; sourceTree = "<group>"; };
@@ -110,6 +110,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E348FA0121B0D9BE007701C2 /* ZHFSegment */ = {
+			isa = PBXGroup;
+			children = (
+				E348FA0221B0D9BE007701C2 /* ZHFSegmentVC.swift */,
+				E348FA0321B0D9BE007701C2 /* Common.swift */,
+				E348FA0421B0D9BE007701C2 /* ZHFColor.swift */,
+			);
+			path = ZHFSegment;
+			sourceTree = "<group>";
+		};
 		E3B3D72C21AB8AA40045496F = {
 			isa = PBXGroup;
 			children = (
@@ -133,7 +143,7 @@
 		E3B3D73721AB8AA40045496F /* ZHFSegment */ = {
 			isa = PBXGroup;
 			children = (
-				E3B3D77E21ABE2AC0045496F /* ZhfSegment */,
+				E348FA0121B0D9BE007701C2 /* ZHFSegment */,
 				E3B3D73821AB8AA40045496F /* AppDelegate.swift */,
 				E3B3D73A21AB8AA40045496F /* ViewController.swift */,
 				E3B3D7A121ABF3A20045496F /* one */,
@@ -167,16 +177,6 @@
 				E3B3D75A21AB8AA50045496F /* Info.plist */,
 			);
 			path = ZHFSegmentUITests;
-			sourceTree = "<group>";
-		};
-		E3B3D77E21ABE2AC0045496F /* ZhfSegment */ = {
-			isa = PBXGroup;
-			children = (
-				E3B3D77F21ABE2AC0045496F /* ZHFSegmentVC.swift */,
-				E3B3D78521ABE2DE0045496F /* ZHFColor.swift */,
-				E3B3D78021ABE2AC0045496F /* Common.swift */,
-			);
-			path = ZhfSegment;
 			sourceTree = "<group>";
 		};
 		E3B3D79421ABF3860045496F /* two */ = {
@@ -357,18 +357,18 @@
 				E3B3D7AB21ABF3FB0045496F /* MainFourVC.swift in Sources */,
 				E3B3D7A821ABF3F50045496F /* MainThreeVC.swift in Sources */,
 				E3B3D79F21ABF3870045496F /* MainTwoVC.swift in Sources */,
-				E3B3D78621ABE2DE0045496F /* ZHFColor.swift in Sources */,
 				E3B3D7B321ABFB740045496F /* MainFourChildVC.swift in Sources */,
+				E348FA0521B0D9BE007701C2 /* ZHFSegmentVC.swift in Sources */,
+				E348FA0621B0D9BE007701C2 /* Common.swift in Sources */,
+				E348FA0721B0D9BE007701C2 /* ZHFColor.swift in Sources */,
 				E3B3D79D21ABF3870045496F /* MainTwoChildVC.swift in Sources */,
 				E3B3D79E21ABF3870045496F /* HomeVC.swift in Sources */,
-				E3B3D78221ABE2AC0045496F /* Common.swift in Sources */,
 				E3B3D7AF21ABFABA0045496F /* ZHFOtherTabBar.swift in Sources */,
 				E3B3D7A421ABF3A20045496F /* MainOneVC.swift in Sources */,
 				E3B3D73B21AB8AA40045496F /* ViewController.swift in Sources */,
 				E3B3D7AD21ABF48F0045496F /* MainThreeChildVC.swift in Sources */,
 				E3B3D73921AB8AA40045496F /* AppDelegate.swift in Sources */,
 				E3B3D77B21ABCF1C0045496F /* NextVC.swift in Sources */,
-				E3B3D78121ABE2AC0045496F /* ZHFSegmentVC.swift in Sources */,
 				E3B3D7A521ABF3A20045496F /* MainOneChildVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
