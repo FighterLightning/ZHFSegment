@@ -10,7 +10,7 @@ https://github.com/FighterLightning/ZHFSegment.git
 
 效果图
  
- ![](./ZHFSegment/1.gif)      ![](./ZHFSegment/1.png)
+ ![](./ZHFSegmentDemo/ZHFSegment/1.gif)      ![](./ZHFSegmentDemo/ZHFSegment/1.png)
 
 
 
